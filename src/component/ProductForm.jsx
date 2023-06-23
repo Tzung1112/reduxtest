@@ -11,7 +11,7 @@ export default function ProductForm() {
             image: "",
             title:
                 "",
-            price: "",
+            price: " ",
             quantity: "",
         },
         
